@@ -1,23 +1,23 @@
 # Full-Stack Login Application (Java & Spring Boot)
 
-Bu layihə, həm Frontend, həm də Backend hissələrini əhatə edən tam funksional bir Giriş (Login) sistemidir. Layihənin məqsədi backend və frontend inteqrasiyasını, həmçinin verilənlər bazası ilə işləmə bacarığımı nümayiş etdirməkdir.
+This project is a fully functional Login system that includes both Frontend and Backend parts. The purpose of the project is to demonstrate my backend and frontend integration, as well as my ability to work with databases.
 
-##  Texnologiyalar
+## Technologies
 * **Backend:** Java, Spring Boot, Spring Data JPA
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Database:** MySQL
 * **Tools:** IntelliJ IDEA, Maven
 
-##  Funksionallıq
-- **Database Connection:** MySQL bazası ilə real zamanlı əlaqə.
-- **REST API:** Backend hissəsi giriş sorğularını emal edir.
-- **Responsive UI:** CSS ilə dizayn edilmiş, hər növ ekrana uyğun interfeys.
-- **Validation:** Giriş məlumatlarının doğruluğunun yoxlanılması.
+## Functionality
+- **Database Connection:** Real-time connection with MySQL database.
+- **REST API:** Backend part processes access requests.
+- **Responsive UI:** Designed with CSS, the interface adapts to any type of screen.
+- **Validation:** Checking the correctness of input data.
 
-##  Layihə Strukturu
-- `src/main/java`: Backend məntiqi (Controller, Service, Connection).
-- `src/main/resources/static`: Frontend faylları (HTML, CSS, JS).
-- `application.properties`: Verilənlər bazası və server sazlamaları.
+## Project Structure
+- `src/main/java`: Backend logic (Controller, Service, Connection).
+- `src/main/resources/static`: Frontend files (HTML, CSS, JS).
+- `application.properties`: Database and server settings.
 
 ---
-*Bu layihə bir QA Engineer olaraq texniki bacarıqlarımı və proqram təminatının daxili işləmə mexanizmini başa düşməyimi göstərmək üçün hazırlanmışdır.*
+*This project is designed to demonstrate my technical skills as a QA Engineer and my understanding of the inner workings of software.*
